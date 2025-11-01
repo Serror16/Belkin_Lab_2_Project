@@ -1,0 +1,1 @@
+[{"time": "2025-11-01T22:13:05.909344", "command": "ls", "args": [], "status": true, "current_dir": "C:\\Users\\ser20\\Documents\\py_lab_2", "other_data": {}}, {"time": "2025-11-01T22:46:11.393932", "command": "history", "args": ["5"], "status": true, "current_dir": "C:\\Users\\ser20\\Documents\\py_lab_2", "other_data": {}}]
